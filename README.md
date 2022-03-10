@@ -1,5 +1,7 @@
 # EmailNotification - Lines Of Code
-This project helps in extracting the lines of code used in a code base.
+This project helps in extracting the lines of code used in a Github link.
+
+Prerequisite: 
 
 Create a gmail account for sending email address.
 Enable Less secure app access in the gmail account, you can find the documentation available in following link
@@ -7,9 +9,12 @@ https://support.google.com/accounts/answer/6010255#zippy=%2Cupdate-your-app-or-o
 
 Install Python version 3.7 https://www.python.org/downloads/
 
-**Windows machine:**
 
-Clone this  repository to local machine 
+
+**To run on Windows machine:**
+
+Clone this repository to local machine 
+git clone https://github.com/aravinddathd/EmailNotification
 
 Run the batfile EmailNotification.bat
 Pass the requested parameter while running the script
