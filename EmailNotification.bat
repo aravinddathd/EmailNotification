@@ -1,5 +1,5 @@
 @echo off
-set /P Github="Enter Github Link"
+set /P Github="Enter Github Link to scan"
 echo %Github%
 set /P Folder="Enter Repository Folder name"
 echo %Folder%
